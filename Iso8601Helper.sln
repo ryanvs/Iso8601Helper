@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iso8601Helper", "Iso8601Helper\Iso8601Helper.csproj", "{150A1676-7126-4476-9BA3-1FF33C872917}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iso8601Helper.Test", "Iso8601Helper.Test\Iso8601Helper.Test.csproj", "{74DA909E-15E7-46B8-BF5E-31858C12B3F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{150A1676-7126-4476-9BA3-1FF33C872917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{150A1676-7126-4476-9BA3-1FF33C872917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{150A1676-7126-4476-9BA3-1FF33C872917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{150A1676-7126-4476-9BA3-1FF33C872917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74DA909E-15E7-46B8-BF5E-31858C12B3F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74DA909E-15E7-46B8-BF5E-31858C12B3F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74DA909E-15E7-46B8-BF5E-31858C12B3F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74DA909E-15E7-46B8-BF5E-31858C12B3F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBCCD23C-24E9-41D8-AE6E-933F605B11EF}
+	EndGlobalSection
+EndGlobal
